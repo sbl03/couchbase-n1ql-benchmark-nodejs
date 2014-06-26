@@ -5,8 +5,8 @@ Couchbase Benchmarking Tool for NodeJS
 
 <p>Prerequisites:</p>
 <ul>
-<li>Couchbase Server</li>
-<li>NodeJS</li>
+<li><a href="http://www.couchbase.com/download#cb-server">Couchbase Server</a></li>
+<li><a href="http://nodejs.org/download/">NodeJS</a></li>
 </ul>
 
 <p>To run:</p>
