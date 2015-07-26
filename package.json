@@ -1,0 +1,23 @@
+{
+  "name": "couchbase-n1ql-benchmark-nodejs",
+  "version": "1.0.0",
+  "description": "Benchmark N1QL queries in Couchbase",
+  "main": "couchbase.",
+  "dependencies": {
+    "couchbase": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbl03/couchbase-n1ql-benchmark-nodejs.git"
+  },
+  "author": "Shabai Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbl03/couchbase-n1ql-benchmark-nodejs/issues"
+  },
+  "homepage": "https://github.com/sbl03/couchbase-n1ql-benchmark-nodejs#readme"
+}
